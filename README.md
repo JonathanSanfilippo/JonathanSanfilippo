@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Jonathan Sanfilippo!
 
-<!--
-**JonathanSanfilippo/JonathanSanfilippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm passionate about Linux, AI, and coding. I enjoy working on open-source projects and experimenting with cutting-edge technologies.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+- 🐧 Arch Linux Enthusiast  
+- 🧠 AI Projects with LLaMA 3.1  
+- 💻 Python, Bash, Docker  
+- 🖥️ System Administration & DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **Coming** – Descrizione.  
+
+
+## 📫 How to reach me:
+[![GitHub](https://img.shields.io/badge/GitHub-JonathanSanfilippo-blue?logo=github)](https://github.com/JonathanSanfilippo)  
+
+Feel free to check out my repositories and contribute! 🚀
