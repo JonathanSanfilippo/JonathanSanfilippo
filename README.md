@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm passionate about Linux, AI, and coding. I enjo
 
 ## 🛠️ My Tech Stack
 - 🐧 Arch Linux Enthusiast  
-- 🧠 AI Projects with LLaMA 3.1  
+- 🧠 AI Projects 
 - 💻 Python, Bash, Docker  
 - 🖥️ System Administration & DevOps  
 
